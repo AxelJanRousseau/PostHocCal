@@ -1,4 +1,4 @@
-# PostHocCal
+# PostHocMedCal
 
 This repository will host the code for the article
 
